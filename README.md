@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm VIVEK CHAUHAN</h1>
 <h3 align="center">
 Full-Stack MERN Developer skilled in building scalable web apps, RESTful APIs, JWT auth, payment gateways, and integrating AI-powered features.  
-Experienced in debugging, performance optimization, and MongoDB/MySQL, with a focus on security and Agile delivery.  
+Experienced in debugging, performance optimization, and MongoDB/MySQL, with a focus on security and Agile delivery.
+</h3>
+  <br>br>
 📫 Reach me at **er.vivekchauhan1@gmail.com**
 </h3>
 
@@ -10,11 +12,11 @@ Experienced in debugging, performance optimization, and MongoDB/MySQL, with a fo
 <br/><br/>
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (AI), graduating in **2026**  
+- 🎓 B.Tech CSE, graduating in **2026**  
 - 💻 Passionate about **MERN Stack Development, Backend Engineering, and AI**  
 - 🚀 Building projects that solve **real-world problems**  
-- 📚 Learning **DSA + System Design** for placements  
-- ⚡ Fun fact: I love running daily, staying active, and pushing my limits!  
+- 📚 Learning DSA + Development for placements  
+- ⚡ Fun fact: I love Lifting Weights daily, staying active, and pushing my limits!  
 
 <br/><br/>
 
@@ -59,12 +61,14 @@ Experienced in debugging, performance optimization, and MongoDB/MySQL, with a fo
 <br/><br/>
 
 ## 📌 Featured Projects  
--👨‍💼 Employee Management System (MERN) – CRUD-based staff management app
--🧑‍💻 AI Resume Builder – AI tool for resume Building & smart suggestions
--🚖 StudyNotion (MERN) – An Ed-Tech Platform
--🌐 Frontend UI Clones – Razorpay, UsabilityHub, Cuberto landing page
+
+- 👨‍💼 **Employee Management System (MERN)** – CRUD-based staff management app  
+- 🧑‍💻 **AI Resume Builder** – AI tool for resume building & smart suggestions  
+- 🚖 **StudyNotion (MERN)** – An Ed-Tech platform  
+- 🌐 **Frontend UI Clones** – Razorpay, UsabilityHub, Cuberto landing page  
 
 <br/><br/>
+
 
 ## 🌍 Connect With Me  
 

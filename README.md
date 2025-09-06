@@ -3,8 +3,10 @@
 Full-Stack MERN Developer skilled in building scalable web apps, RESTful APIs, JWT auth, payment gateways, and integrating AI-powered features.  
 Experienced in debugging, performance optimization, and MongoDB/MySQL, with a focus on security and Agile delivery.
 </h3>
-  <br>br>
+  <br></br>
+  <h3 align='center'>
 📫 Reach me at **er.vivekchauhan1@gmail.com**
+</h3>
 </h3>
 
 ---

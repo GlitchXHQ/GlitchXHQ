@@ -24,7 +24,7 @@ Experienced in debugging, performance optimization, and MongoDB/MySQL, with a fo
 
 ## 🛠️ Tech Stack  
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
@@ -51,6 +51,11 @@ Experienced in debugging, performance optimization, and MongoDB/MySQL, with a fo
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="30" />
+</div>
+
+<br></br>
+
+<div align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox" />

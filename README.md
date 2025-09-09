@@ -1,99 +1,73 @@
-<h1 align="center">Hi 👋, I'm VIVEK CHAUHAN</h1>
+<h1 align="center">🚀 Hi, I'm Vivek Chauhan 👋</h1>
 <h3 align="center">
-Full-Stack MERN Developer skilled in building scalable web apps, RESTful APIs, JWT auth, payment gateways, and integrating AI-powered features.  
-Experienced in debugging, performance optimization, and MongoDB/MySQL, with a focus on security and Agile delivery.
+💻 Full-Stack MERN Developer | ⚡ Backend Engineer | 🤖 AI Integrator
 </h3>
-  <br></br>
-  <h3 align='center'>
-📫 Reach me at **er.vivekchauhan1@gmail.com**
-</h3>
-</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vivek004&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+<a href="https://github.com/Vivek004?tab=followers"><img src="https://img.shields.io/github/followers/Vivek004?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 ---
 
-<br/><br/>
-
-## 👨‍💻 About Me  
-- 🎓 B.Tech CSE, graduating in **2026**  
-- 💻 Passionate about **MERN Stack Development, Backend Engineering, and AI**  
-- 🚀 Building projects that solve **real-world problems**  
-- 📚 Learning DSA + Development for placements  
-- ⚡ Fun fact: I love Lifting Weights daily, staying active, and pushing my limits!  
-
-<br/><br/>
-
-## 🛠️ Tech Stack  
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="30" />
-</div>
-
-<br></br>
-
-<div align='center'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud" />
-</div>
-
-<br/><br/>
-
-## 📌 Featured Projects  
-
-- 👨‍💼 **Employee Management System (MERN)** – CRUD-based staff management app  
-- 🧑‍💻 **AI Resume Builder** – AI tool for resume building & smart suggestions  
-- 🚖 **StudyNotion (MERN)** – An Ed-Tech platform  
-- 🌐 **Frontend UI Clones** – Razorpay, UsabilityHub, Cuberto landing page  
-
-<br/><br/>
-
-
-## 🌍 Connect With Me  
-
-<div align="left">
-  <a href="https://linkedin.com/in/vivek004">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  <a href="https://discord.com/users/vivek004">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
-  </a>
-  <a href="mailto:er.vivekchauhan1@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
-  </a>
-  <a href="https://instagram.com/chauhan_vivek004">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
-  </a>
-</div>
+## 🧑‍🚀 About Me
+- 🎓 Pursuing **B.Tech CSE (2026)**  
+- 🌐 Passionate about **MERN Stack, Backend Engineering & AI**  
+- 🚀 Building **scalable apps** with authentication, payments & AI integrations  
+- 🧩 Strong in **DSA + Development** (placement ready mindset)  
+- ⚡ Fitness Enthusiast – *Lift heavy, code harder* 💪  
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my repositories and drop a ⭐ if you find something useful.*  
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,storybook,html,css,tailwind,mongodb,express,nodejs,c,cpp,java,python,git,github,postman,vscode,figma,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 👨‍💼 [Employee Management System](#)  
+MERN CRUD-based app for staff management with JWT auth & role-based access  
+
+### 🧑‍💻 [AI Resume Builder](#)  
+AI-powered resume builder with smart suggestions & ATS optimization  
+
+### 📚 [StudyNotion](#)  
+An Ed-Tech MERN platform with payments, courses & authentication  
+
+### 🌐 [Frontend UI Clones](#)  
+Pixel-perfect clones of Razorpay, UsabilityHub & Cuberto landing pages  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek004&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek004&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek004&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/vivek004"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="mailto:er.vivekchauhan1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://discord.com/users/vivek004"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+  <a href="https://instagram.com/chauhan_vivek004"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+</p>
+
+---
+
+## ⚡ Fun Quote  
+> *"First solve the problem, then write the code." – John Johnson*  
+
+⭐ *If you like my work, consider giving a ⭐ to my repositories!*  

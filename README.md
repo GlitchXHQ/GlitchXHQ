@@ -1,7 +1,7 @@
 # <div align="center">🚀 Hi there! I'm **Vivek Chauhan** 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Backend+Engineering+Enthusiast;AI+Integration+Specialist;Problem+Solver+%26+Code+Optimizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Engineering+Enthusiast;AI+Integration;Problem+Solver+%26+Code+Optimizer" alt="Typing SVG" />
 </div>
 
 <div align="center">

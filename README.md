@@ -107,41 +107,6 @@ const vivek = {
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
-
-<div align="center">
-  
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek004&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vivek004&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek004&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
-
-</div>
-
-### **📈 Contribution Graph**
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-## <div align="center">🏆 GitHub Trophies</div>
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vivek004&theme=github_dark&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## <div align="center">🌐 Let's Connect!</div>
 
 <div align="center">
